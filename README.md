@@ -1,2 +1,7 @@
-# Testing Hello World
+# Testing Areej Imran
 
+About me:
+Picture:;
+Education:
+Values/Skills:
+Social Media: 
