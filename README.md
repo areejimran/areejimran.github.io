@@ -1,7 +1,7 @@
-#### Areej Imran
+#### About me: 
 
->_About me_: I am currently a sophomore at Loyola University Chicago studying Software Engineering. 
-I am in the class of 2025. 
+>_I am currently a sophomore at Loyola University Chicago studying Software Engineering. 
+>I am in the class of 2025. 
 
 >As of right now I am focusing on my academics, striving to gain experience and expanding my network to determine where I fit best in my interests. 
 
