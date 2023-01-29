@@ -1,7 +1,5 @@
-> ####                              ------------ class of 2025 ------------ 
 
-
-##### A current sophomore at Loyola University Chicago studying Software Engineering with career interests in data analysts and software development. 
+#### A current sophomore at Loyola University Chicago studying Software Engineering with career interests in data analysts and software development. 
 
 
 
