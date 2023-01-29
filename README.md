@@ -1,13 +1,13 @@
-> ##                              ------------ I am apart of the class of 2025 ------------ 
+> ####                              ------------ class of 2025 ------------ 
 
 
 ##### A current sophomore at Loyola University Chicago studying Software Engineering with career interests in data analysts and software development. 
 
 
 
-# I was born in the Netherlands and raised in Chicago, IL. The acceleration and rise of data and technology has encouraged me to be apart of these great innovations that continue to happen on a day to day basis. 
+### I was born in the Netherlands and raised in Chicago, IL. The acceleration and rise of data and technology has encouraged me to be apart of these great innovations that continue to happen on a day to day basis. 
 
-* The leadership roles I currently hold on campus: 
+* #### The leadership roles I currently hold on campus: 
   * Minorities In Tech (_Marketing Director_)
   * Software and Systems Laboratory(_Research Assistant_)
   * GirlForward(_Tutor_)
