@@ -12,7 +12,7 @@
   I strive to gain experience, expand my network to best determine where I fit best in my interests and become involved in community based work. 
 
 
- ####Software Engineering stood out substantially as I enjoy creating, assembling and the marketing aspect of this branch of computer science.  
+ Software Engineering stood out substantially as I enjoy creating, assembling and the marketing aspect of this branch of computer science.  
 
   It may be challenging but there is an unexplainable adrenaline rush when you figure out how to get your program to run.
   
