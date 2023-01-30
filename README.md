@@ -20,7 +20,7 @@
    
 
 
->#### Resume:
+>#### **Resume:**
 ![Areej's current resume](file:///Users/areejimran/Downloads/Areej%20Imran-%20Resume.docx.pdf)
 
 
