@@ -5,7 +5,7 @@
 
 ##### I was born in the Netherlands and raised in Chicago, IL. The acceleration and rise of data and technology through out my childhood has encouraged me to be apart of these great innovations that continue to happen on a day to day basis. 
 
-##### Leadership roles: 
+#### Leadership roles: 
   * Minorities In Tech (_Marketing Director_)
   
   * Software and Systems Laboratory (_Research Assistant_)
