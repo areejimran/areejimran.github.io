@@ -19,14 +19,14 @@
   
 
 >#### Resume:
-![Areej's current resume](https://docs.google.com/document/d/1ltjDIu_tCJOgiy0slr-PuuHPh02Bj98w/edit?usp=sharing&ouid=106536177495519516394&rtpof=true&sd=true)
+![Areej's current resume](file:///Users/areejimran/Downloads/Areej%20Imran-%20Resume.docx.pdf)
 
 
 > #### Social Media:
 
 >[LinkedIn:](www.linkedin.com/in/areej-imran-791b4a22a)
 
->[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)  :
 
 > #### I am one who is not afraid to ask questions, willingness to learn new approaches, emphasis on communication and dedicated to expanding my skills as well as programming languages.
 
