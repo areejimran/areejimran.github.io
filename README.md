@@ -36,4 +36,5 @@
 ### **Programming languages:** 
 [![My Skills](https://skillicons.dev/icons?i=java,ae,cs,py,github,linux)](https://skillicons.dev)
 
+> _If, at first, you do not succeed, call it version 1.0_ ― Khayri R.R. Woulfe
 
