@@ -19,6 +19,7 @@
   It may be challenging but when it comes to coding with the dedication anyone can learn! 
    
 
+
 >#### Resume:
 ![Areej's current resume](file:///Users/areejimran/Downloads/Areej%20Imran-%20Resume.docx.pdf)
 
@@ -29,6 +30,7 @@
 >[LinkedIn](https://www.linkedin.com/in/areej-imran-791b4a22a/)
 
 >[Instagram](https://www.instagram.com/its_areej/)
+
 
 > #### I am one who is not afraid to ask questions, eager to learn new approaches, emphasis on communication and dedicated to expanding my skills as well as programming languages.
 
