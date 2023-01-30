@@ -23,7 +23,7 @@
 
 
 > #### Social Media:
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,discord,twitter)](https://skillicons.dev) 
 
 >[LinkedIn:](https://www.linkedin.com/in/areej-imran-791b4a22a/)
 
