@@ -24,7 +24,7 @@
 
 > #### Social Media:
 
->[LinkedIn:](https://linkedin.com/in/areej-imran-791b4a22a)
+>[LinkedIn:](https://www.linkedin.com/in/areej-imran-791b4a22a/)
 
 >[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)  
 
