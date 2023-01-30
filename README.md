@@ -1,8 +1,8 @@
 
-> #### A current sophomore at Loyola University Chicago studying Software Engineering with career interests in Data Analysts and Software Development. 
+> ### A current sophomore at Loyola University Chicago studying Software Engineering with career interests in Data Analysts and Software Development. 
 
 
-##### I was born in the Netherlands and raised in Chicago, IL. The acceleration and rise of data and technology through out my childhood has encouraged me to be apart of these great innovations that continue to happen on a day to day basis. 
+#### I was born in the Netherlands and raised in Chicago, IL. The acceleration and rise of data and technology through out my childhood has encouraged me to be apart of these great innovations that continue to happen on a day to day basis. 
 
 * #### The leadership roles I currently hold on campus: 
   * Minorities In Tech (_Marketing Director_)
@@ -19,6 +19,7 @@
   
 
 >#### Resume:
+![Areej's current resume](https://docs.google.com/document/d/1ltjDIu_tCJOgiy0slr-PuuHPh02Bj98w/edit?usp=sharing&ouid=106536177495519516394&rtpof=true&sd=true)
 
 
 > #### Social Media:
