@@ -26,7 +26,7 @@
 
 >[LinkedIn:](www.linkedin.com/in/areej-imran-791b4a22a)
 
->[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)  :
+>[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)  
 
 > #### I am one who is not afraid to ask questions, willingness to learn new approaches, emphasis on communication and dedicated to expanding my skills as well as programming languages.
 
