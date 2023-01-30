@@ -21,7 +21,7 @@
 
 
 >#### **Resume:**
-![Areej's current resume](file:///Users/areejimran/Downloads/Areej%20Imran-%20Resume.docx.pdf)
+[Areej's current resume](AreejImran-Resume.docx.pdf)
 
 
 > ### **Social Media:**
