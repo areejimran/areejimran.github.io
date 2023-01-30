@@ -33,7 +33,7 @@
 
 > #### I am one who is not afraid to ask questions, eager to learn new approaches, emphasis on communication and dedicated to expanding my skills as well as programming languages.
 
-#### Programming languages: 
+### **Programming languages:** 
 [![My Skills](https://skillicons.dev/icons?i=java,ae,cs,py,github,linux)](https://skillicons.dev)
 
 
