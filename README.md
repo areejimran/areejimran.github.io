@@ -14,9 +14,9 @@
 
 ##### I strive to gain experience, expand my network to best determine where I fit best in my interests and become involved in community based work. 
 
-  ###### Software Engineering stood out substantially as I enjoy creativity, assembling and the marketing aspect of this career. It also provides flexibilty, oppurtunities and imagination.
+  Software Engineering stood out substantially as I enjoy creativity, assembling and the marketing aspect of this career. It also provides flexibilty, oppurtunities and imagination.
 
-  ##### It may be challenging but when it comes to coding with the dedication anyone can learn! 
+  It may be challenging but when it comes to coding with the dedication anyone can learn! 
    
 
 
