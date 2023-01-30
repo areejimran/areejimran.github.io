@@ -27,9 +27,9 @@
 > ### **Social Media:**
 [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,discord,twitter)](https://skillicons.dev) 
 
->[LinkedIn](https://www.linkedin.com/in/areej-imran-791b4a22a/)
+>[Connect with me on LinkedIn!](https://www.linkedin.com/in/areej-imran-791b4a22a/)
 
->[Instagram](https://www.instagram.com/its_areej/)
+>[Follow me on Instagram!](https://www.instagram.com/its_areej/)
 
 
 > #### I am one who is not afraid to ask questions, eager to learn new approaches, emphasis on communication and dedicated to expanding my skills as well as programming languages.
