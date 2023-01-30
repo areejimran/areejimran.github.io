@@ -4,9 +4,11 @@
 
 #### I was born in the Netherlands and raised in Chicago, IL. The acceleration and rise of data and technology through out my childhood has encouraged me to be apart of these great innovations that continue to happen on a day to day basis. 
 
-* #### The leadership roles I currently hold on campus: 
+* #### Leadership roles: 
   * Minorities In Tech (_Marketing Director_)
+  
   * Software and Systems Laboratory (_Research Assistant_)
+ 
   * GirlForward (_Tutor_)
 
   I strive to gain experience, expand my network to best determine where I fit best in my interests and become involved in community based work. 
