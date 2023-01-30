@@ -14,12 +14,10 @@
 
   I strive to gain experience, expand my network to best determine where I fit best in my interests and become involved in community based work. 
 
-  Software Engineering stood out substantially as I enjoy creating, assembling and the marketing aspect of this branch of computer science.  
+  Software Engineering stood out substantially as I enjoy creativity, assembling and the marketing aspect of this career. It also provides flexibilty, oppurtunities and imagination.
 
-  It may be challenging but there is an unexplainable adrenaline rush when you debugging your program.
-  
-  There is a lot of flexibility in how you can apply your major to the different career paths which I admire because there are a lot of opportunities. 
-  
+  It may be challenging but when it comes to coding with the dedication anyone can learn! 
+   
 
 >#### Resume:
 ![Areej's current resume](file:///Users/areejimran/Downloads/Areej%20Imran-%20Resume.docx.pdf)
