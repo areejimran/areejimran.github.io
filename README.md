@@ -12,7 +12,7 @@
  
   * GirlForward (_Tutor_)
 
-I strive to gain experience, expand my network to best determine where I fit best in my interests and become involved in community based work. 
+##### I strive to gain experience, expand my network to best determine where I fit best in my interests and become involved in community based work. 
 
   Software Engineering stood out substantially as I enjoy creativity, assembling and the marketing aspect of this career. It also provides flexibilty, oppurtunities and imagination.
 
