@@ -6,8 +6,8 @@
 
 * #### The leadership roles I currently hold on campus: 
   * Minorities In Tech (_Marketing Director_)
-  * Software and Systems Laboratory(_Research Assistant_)
-  * GirlForward(_Tutor_)
+  * Software and Systems Laboratory (_Research Assistant_)
+  * GirlForward (_Tutor_)
 
   I strive to gain experience, expand my network to best determine where I fit best in my interests and become involved in community based work. 
 
@@ -24,7 +24,7 @@
 
 > #### Social Media:
 
->LinkedIn: [Areej Imran's LinkedIn](www.linkedin.com/in/areej-imran-791b4a22a)
+>[LinkedIn: ](www.linkedin.com/in/areej-imran-791b4a22a)
 
 >Instagram: its_areej 
 
