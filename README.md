@@ -37,6 +37,12 @@ I strive to gain experience, expand my network to best determine where I fit bes
 ### **Programming languages:** 
 [![My Skills](https://skillicons.dev/icons?i=java,ae,cs,py,github,linux)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ae,cs,py,github,linux" />
+  </a>
+</p>
+
 
 > _If, at first, you do not succeed, call it version 1.0_ ― Khayri R.R. Woulfe
 
