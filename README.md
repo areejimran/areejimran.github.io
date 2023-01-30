@@ -32,6 +32,6 @@
 > #### I am one who is not afraid to ask questions, willingness to learn new approaches, emphasis on communication and dedicated to expanding my skills as well as programming languages.
 
 #### Programming languages: 
-[![My Skills](https://skillicons.dev/icons?i=java,ae,cs,py,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ae,cs,py,github,linux)](https://skillicons.dev)
 
 
