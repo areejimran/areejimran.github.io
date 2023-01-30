@@ -28,7 +28,7 @@
 
 >Instagram: [Areej's Instagram!]((https://www.instagram.com/its_areej/)
 
-  #### I am one who is not afraid to ask questions, willingness to learn new approaches, emphasis on communication and dedicated to expanding my skills as well as programming languages.
+> ### I am one who is not afraid to ask questions, willingness to learn new approaches, emphasis on communication and dedicated to expanding my skills as well as programming languages.
 
 #### Programming languages: 
 
