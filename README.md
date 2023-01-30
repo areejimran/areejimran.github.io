@@ -1,6 +1,6 @@
 
 > ### Hello from one programer to another! 
-> #### I am a current sophomore at Loyola University Chicago studying Software Engineering with career interests in Data Analysts and Software Development. 
+> ##### I am a current sophomore at Loyola University Chicago studying Software Engineering with career interests in Data Analysts and Software Development. 
 
 
 ##### I was born in the Netherlands and raised in Chicago, IL. The acceleration and rise of data and technology through out my childhood has encouraged me to be apart of these great innovations that continue to happen on a day to day basis. 
