@@ -18,8 +18,7 @@
    
 
 
->#### **Resume:**
-[Areej's current resume](AreejImran-Resume.docx.pdf)
+
 
 
 > ### **Social Media:**
